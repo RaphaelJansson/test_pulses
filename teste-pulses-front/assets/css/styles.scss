@@ -1,0 +1,12 @@
+@import '@/assets/css/colors.scss';
+.btn{
+    border-radius: 0px;
+    margin: 0px 5px;
+  }
+.btn-edit{
+  background: $blue-base;
+}
+
+.btn-confirm{
+  background: $green-base;
+}
